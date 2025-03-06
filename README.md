@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiomunez" alt="fabiomunez" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on grocery delivery app [BebaFresh](https://github.com/fabiomunez/grocery_delivery_app)
 
 - 👯 I’m looking to collaborate on groceryApi [groceryApi](https://github.com/fabiomunez/groceryApi)
@@ -17,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/27191643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27191643" height="30" width="40" /></a>
 <a href="https://instagram.com/fabio_munez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabio_munez" height="30" width="40" /></a>
 </p>
 
@@ -28,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiomunez&show_icons=true&locale=en" alt="fabiomunez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiomunez&" alt="fabiomunez" /></p>
+
