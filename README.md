@@ -5,9 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiomunez" alt="fabiomunez" /></a> </p>
 
+*Full-Stack Developer | Artificial Intelligence Enthusiast | Open Source Contributor*
+
+I'm a passionate full-stack developer with a keen interest in emerging technologies. My dedication to programming, database administration, and DevOps engineering drives me to excel and become a competitive professional in the tech industry.
+
+
 - 🔭 I’m currently working on grocery delivery app [BebaFresh](https://github.com/fabiomunez/grocery_delivery_app)
 
-- 👯 I’m looking to collaborate on groceryApi [groceryApi](https://github.com/fabiomunez/groceryApi)
+- 💼 Currently working on innovative web and mobile applications
+  
+- 🌱 Learning more about AI/ML integration with mobile and web applications
+  
+- 👯 Looking to collaborate on open source projects
 
 - 💬 Ask me about **react, flutter, laravel, angular and vuejs**
 
