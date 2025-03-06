@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabian Prosper</h1>
 <h3 align="center">A passionate fullstack developer in Tanzania</h3>
-*Full-Stack Developer | Artificial Intelligence Enthusiast | Open Source Contributor*
+<h4 align="center">Full-Stack Developer | Artificial Intelligence Enthusiast | Open Source Contributor</h4>
 
 <p>I'm a passionate full-stack developer with a keen interest in emerging technologies. My dedication to programming, database administration, and DevOps engineering drives me to excel and become a competitive professional in the tech industry.</p>
 
