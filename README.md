@@ -54,5 +54,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiomunez&show_icons=true&locale=en" alt="fabiomunez" /></p>
 
-⭐ From [is-haka](https://github.com/fabiomunez)
+⭐ From [fabiomunez](https://github.com/fabiomunez)
 
